@@ -1,0 +1,16 @@
+{
+  "item.hugospawner.skelett_spawner": "Skeleton Spawner",
+  "item.hugospawner.creeper_spawner": "Creeper Spawner",
+  "item.hugospawner.spinne_spawner": "Spider Spawner",
+  "item.hugospawner.kuh_spawner": "Cow Spawner",
+  "item.hugospawner.golem_spawner": "Golem Spawner",
+  "item.hugospawner.piglin_spawner": "Piglin Spawner",
+  "item.hugospawner.lohe_spawner": "Blaze Spawner",
+  "block.hugospawner.skelett_spawner": "Skeleton Spawner",
+  "block.hugospawner.creeper_spawner": "Creeper Spawner",
+  "block.hugospawner.spinne_spawner": "Spider Spawner",
+  "block.hugospawner.kuh_spawner": "Cow Spawner",
+  "block.hugospawner.golem_spawner": "Golem Spawner",
+  "block.hugospawner.piglin_spawner": "Piglin Spawner",
+  "block.hugospawner.lohe_spawner": "Blaze Spawner"
+}

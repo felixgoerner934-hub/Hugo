@@ -1,0 +1,85 @@
+{
+  "_readme": "Diese Datei kannst du ohne Programmierkenntnisse im Texteditor anpassen. 'confirmed': true heisst: Wert stammt direkt aus einem HugoSMP-Screenshot. 'confirmed': false heisst: Platzhalter, noch nicht belegt - bitte mit echten Werten ueberschreiben, sobald du sie hast (z.B. aus dem Shop-Screenshot fuer die anderen 6 Typen).",
+
+  "skelett": {
+    "displayName": "Skelett",
+    "mobEntity": "minecraft:skeleton",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": true,
+    "drops": [
+      { "item": "minecraft:bone", "weight": 1 },
+      { "item": "minecraft:arrow", "weight": 1 }
+    ]
+  },
+  "creeper": {
+    "displayName": "Creeper",
+    "mobEntity": "minecraft:creeper",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:gunpowder", "weight": 1 }
+    ]
+  },
+  "spinne": {
+    "displayName": "Spinne",
+    "mobEntity": "minecraft:spider",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:string", "weight": 3 },
+      { "item": "minecraft:spider_eye", "weight": 1 }
+    ]
+  },
+  "kuh": {
+    "displayName": "Kuh",
+    "mobEntity": "minecraft:cow",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:beef", "weight": 2 },
+      { "item": "minecraft:leather", "weight": 1 }
+    ]
+  },
+  "golem": {
+    "displayName": "Golem",
+    "mobEntity": "minecraft:iron_golem",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:iron_ingot", "weight": 1 }
+    ]
+  },
+  "piglin": {
+    "displayName": "Piglin",
+    "mobEntity": "minecraft:piglin",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:gold_nugget", "weight": 2 },
+      { "item": "minecraft:ender_pearl", "weight": 1 }
+    ]
+  },
+  "lohe": {
+    "displayName": "Lohe",
+    "mobEntity": "minecraft:blaze",
+    "priceGems": 650,
+    "baseStorageSlots": 36,
+    "storageSlotsPerExtraStack": 36,
+    "confirmed": false,
+    "drops": [
+      { "item": "minecraft:blaze_rod", "weight": 1 }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hugospawner:block/creeper_spawner" }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hugospawner:block/piglin_spawner" }
+  }
+}
